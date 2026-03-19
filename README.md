@@ -3,7 +3,7 @@
 <p>Hello World</p>
  -->
  
-  <h1 align="left">Meet Tilala</h1>
+  <h1 align="left">Sunny Kumar</h1>
 <div align="center"  >
   <img src="https://github.com/sunny40540/sunny40540/blob/main/Sunnyprofile.jpg" alt="Image" style="border-radius: 50px;" height="300">
 </div>
@@ -13,18 +13,22 @@
 
  ![](https://github.com/AnishSukhramani/AnishSukhramani/assets/91376836/ff67615f-3a0a-45bd-8c92-70e38cf44ec9) -->
 
-<h3 align="center">"I code with passion, precision, and a pinch of madness, with flawless elegance that blends style and substance effortlessly.
-"</h3>
+<h3 align="center">
+"Building ideas into reality with clean code, creativity, and consistency."
+</h3>
+
 
 
 <h2> About Me </h2>
-I'm Meet Tilala — a Computer Science undergrad at IIT Jodhpur, who treats code not just as instructions for machines, but as a canvas for problem-solving artistry. I engineer elegant solutions with the surgical precision of a developer and the chaotic creativity of a dreamer. My academic journey has taken me deep into the realms of algorithms, blockchain game theory, and machine learning, while my hands-on projects — from a sentiment analysis engine to a geospatial query system — prove that theory is just the beginning.
 
+I'm Sunny — a Computer Science undergraduate at IIT Jodhpur, passionate about building impactful solutions through code. I see programming not just as writing instructions, but as a way to design, solve problems, and create meaningful systems.
 
+My academic journey has led me to explore full-stack development, machine learning, and modern technologies. I enjoy learning by building — whether it's developing scalable web applications or experimenting with intelligent systems.
 
-Whether I’m architecting a campus-wide resale platform or optimizing decentralized networks, I bring a relentless curiosity and unshakable discipline.
+I focus on writing clean, efficient code and continuously improving my problem-solving skills. From turning ideas into real-world projects to debugging complex challenges, I enjoy every step of the process.
 
-Currently part of the CSE Society and the Quant-Finance Club, I thrive where logic meets leadership. I build. I debug. I deliver. And when it all breaks down? I reboot — smarter.
+I build. I learn. I evolve.
+
 
 
 
@@ -32,22 +36,26 @@ Currently part of the CSE Society and the Quant-Finance Club, I thrive where log
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
-<a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.geeksforgeeks.org/javascript/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+<a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> </a> 
+<a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a> 
+<a href="https://www.geeksforgeeks.org/javascript/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/> </a> 
+<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/> </a> 
+<a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/> </a> 
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/> </a> 
+<a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/> </a> 
+<a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/> </a> 
 </p>
-
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/Meet__Tilala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Meet-Tilala" height="36" width="55" /></a>
@@ -60,7 +68,7 @@ Currently part of the CSE Society and the Quant-Finance Club, I thrive where log
 
 <!-- <hr> -->
 <hr>
-<p align="center"><img width="47.5%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Meet-Tilala&theme=tokyonight&hide_border=true" alt="Meet-Tilala" /><img width="47.5%" align="right" src="https://github-readme-stats.vercel.app/api?username=Meet-Tilala&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="Meet-Tilala" /></p>
+<p align="center"><img width="47.5%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Meet-Tilala&theme=tokyonight&hide_border=true" alt="Sunny" /><img width="47.5%" align="right" src="https://github-readme-stats.vercel.app/api?username=Meet-Tilala&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="Meet-Tilala" /></p>
 <br>
 <br>
 <br>
@@ -74,21 +82,4 @@ Currently part of the CSE Society and the Quant-Finance Club, I thrive where log
 
 
 
-### 🏆 Notable Achievements:
-- 🥇 AIR 1959 in JEE Advanced 2023 (top 0.1% of qualified students)
-- 🥈 AIR 4236 in JEE Main 2023 (99.64 percentile, top 0.2%)
-- 🏅 Secured 2nd Position in Gujarat State (96.4%) in CBSE Board Examination 2023
-- 🎓 Currently maintaining 8.54 CGPA at IIT Jodhpur
 
-## Research & Projects:
-- **Game Theoretic Analysis of Payment Networks in Blockchain** - Research project under <a href="https://scholar.google.com/citations?user=J2Rhwj8AAAAJ&hl=en" target="_blank">Prof. Nitin Awathare</a>
-- **Sentiment Classification using Core ML Principles** - Text sentiment analysis using machine learning techniques
-- **E-Commerce Reseller Website (AROMA)** - Web marketplace for pre-owned items trading within IITJ
-- **Geospatial Query System** - A spatial database system with efficient query handling
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Meet-Tilala&bg_color=1a1b27&color=c194f5&line=75aaff&point=3bc4b4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-<!-- Profile views counter -->
-![Profile views](https://komarev.com/ghpvc/?username=Meet-Tilala&color=blue)

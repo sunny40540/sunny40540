@@ -58,10 +58,8 @@ I build. I learn. I evolve.
 </p>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://twitter.com/Meet__Tilala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Meet-Tilala" height="36" width="55" /></a>
 <a href="https://www.linkedin.com/in/sunny-kumar-604180280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Meet-Tilala" height="38" width="55" /></a>
 <a href="https://instagram.com/sunnysingh45_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Meet-Tilala" height="40" width="55" /></a>
-<a href="https://www.leetcode.com/MeetTilala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Meet-Tilala" height="40" width="55" /></a>
 <a href="mailto:sunny45oofficial45@gmail.com">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="20" width="55" />
 </a>
